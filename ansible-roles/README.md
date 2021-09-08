@@ -20,4 +20,4 @@
 
 > `meta:` contains metadata of role like an author, support platforms, dependencies.
 
-> `handlers:` contains handlers which can be invoked by “notify” directives and are associated with service.
+> `handlers:` contains handlers which can be invoked by “notify” directives and are associated with service
